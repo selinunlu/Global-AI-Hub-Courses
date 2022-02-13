@@ -102,3 +102,4 @@
 
 # Certification
 The course completion is certified.
+![](assets/Data-Analysis-Certificate.jpeg)
