@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 🎓 Hands-on Data Visualization with Python Course by [Global AI Hub](https://globalaihub.com/community)
+# 🎓 Hands-on Data Visualization with Python by [Global AI Hub](https://globalaihub.com/community)
 
 # Certification
 The course completion is certified.
