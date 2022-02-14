@@ -8,4 +8,4 @@
 
 # Certification
 The course completion is certified.
-![](assets/Introduction to Machine Learning-Certificate.png)
+![](assets/Introduction-to-Machine-Learning-Certificate.png)
