@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 🎓 Data Analysis and Model Training Course by [Global AI Hub](https://globalaihub.com/community)
+# 🎓 Data Analysis Course by [Global AI Hub](https://globalaihub.com/community)
 
 # Syllabus:
 
