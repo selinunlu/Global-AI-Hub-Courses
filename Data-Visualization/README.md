@@ -39,4 +39,5 @@
 
 # Certification
 The course completion is certified.
+
 ![](assets/Data-Visualization-Certificate.jpeg)
